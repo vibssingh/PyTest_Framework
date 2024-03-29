@@ -26,11 +26,11 @@ jobs:
           pip install pytest-selenium
    
       - name: Test with PyTest
-        run: pytest  
+        run: pytest --html=report.html  
          
       - name: Test Report Generation
         uses: actions/upload-artifact@v4
         if: success() || failure()
         with:
           name: Pytest Report                        # Name of the folder
-          path: Reports/report.html           # Path to test results
+          path: report.html           # Path to test results
