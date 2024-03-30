@@ -30,11 +30,7 @@ pipeline {
           emailext(
             to: 'vibhasingh2004@gmail.com',
             subject: "Test Execution Report: ${currentBuild.fullDisplayName}",
-            body: ""
-            "<p>Test execution for ${currentBuild.fullDisplayName} has completed.</p> <
-            p > Build status: $ {
-              currentBuild.result
-            } < /p>""",
+            body: 'Test execution for ${currentBuild.fullDisplayName} has completed.',
             attachLog: true // Attach build log to the email
           )
         }
