@@ -19,7 +19,7 @@ pipeline {
                               keepAll: false,
                               reportDir: 'Reports',
                               reportFiles: 'report.html',
-                              reportName: 'report',
+                              reportName: 'PyTest HTML Report',
                               reportTitles: '',
                               useWrapperFileDirectly: true])
                 }
