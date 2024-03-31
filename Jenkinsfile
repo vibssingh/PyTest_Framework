@@ -17,7 +17,7 @@ pipeline {
             alwaysLinkToLastBuild: false,
             keepAll: false,
             reportDir: 'Reports',
-            reportFiles: 'report.html',
+            reportFiles: 'HTML Report.html',
             reportName: 'PyTest HTML Report',
             reportTitles: '',
             useWrapperFileDirectly: true
