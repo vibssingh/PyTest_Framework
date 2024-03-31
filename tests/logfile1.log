@@ -700,3 +700,40 @@
 2024-03-30 16:22:46,431 : INFO : execute_login : Enter Password - admin123
 2024-03-30 16:22:47,640 : INFO : actual_heading : Heading is Dashboard
 2024-03-30 16:22:47,640 : INFO : actual_heading : Heading is Dashboard
+2024-03-31 17:24:39,735 : INFO : execute_login : Enter Username - Admin
+2024-03-31 17:24:39,913 : INFO : execute_login : Enter Password - admin123
+2024-03-31 17:24:41,386 : INFO : actual_heading : Heading is Dashboard
+2024-03-31 17:24:50,249 : INFO : execute_login : Enter Username - Admin
+2024-03-31 17:24:50,249 : INFO : execute_login : Enter Username - Admin
+2024-03-31 17:24:50,556 : INFO : execute_login : Enter Password - admin123
+2024-03-31 17:24:50,556 : INFO : execute_login : Enter Password - admin123
+2024-03-31 17:24:52,743 : INFO : time_at_work_displayed : Time At Work Option is displayed  True
+2024-03-31 17:25:00,668 : INFO : execute_login : Enter Username - admin
+2024-03-31 17:25:00,668 : INFO : execute_login : Enter Username - admin
+2024-03-31 17:25:00,668 : INFO : execute_login : Enter Username - admin
+2024-03-31 17:25:00,978 : INFO : execute_login : Enter Password - admin$$
+2024-03-31 17:25:00,978 : INFO : execute_login : Enter Password - admin$$
+2024-03-31 17:25:00,978 : INFO : execute_login : Enter Password - admin$$
+2024-03-31 17:25:02,285 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-03-31 17:25:10,973 : INFO : execute_login : Enter Username - Admin123
+2024-03-31 17:25:10,973 : INFO : execute_login : Enter Username - Admin123
+2024-03-31 17:25:10,973 : INFO : execute_login : Enter Username - Admin123
+2024-03-31 17:25:10,973 : INFO : execute_login : Enter Username - Admin123
+2024-03-31 17:25:11,284 : INFO : execute_login : Enter Password - 123
+2024-03-31 17:25:11,284 : INFO : execute_login : Enter Password - 123
+2024-03-31 17:25:11,284 : INFO : execute_login : Enter Password - 123
+2024-03-31 17:25:11,284 : INFO : execute_login : Enter Password - 123
+2024-03-31 17:25:12,362 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-03-31 17:25:12,362 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-03-31 17:25:19,422 : INFO : execute_login : Enter Username - Admin
+2024-03-31 17:25:19,422 : INFO : execute_login : Enter Username - Admin
+2024-03-31 17:25:19,422 : INFO : execute_login : Enter Username - Admin
+2024-03-31 17:25:19,422 : INFO : execute_login : Enter Username - Admin
+2024-03-31 17:25:19,422 : INFO : execute_login : Enter Username - Admin
+2024-03-31 17:25:19,731 : INFO : execute_login : Enter Password - admin123
+2024-03-31 17:25:19,731 : INFO : execute_login : Enter Password - admin123
+2024-03-31 17:25:19,731 : INFO : execute_login : Enter Password - admin123
+2024-03-31 17:25:19,731 : INFO : execute_login : Enter Password - admin123
+2024-03-31 17:25:19,731 : INFO : execute_login : Enter Password - admin123
+2024-03-31 17:25:21,377 : INFO : actual_heading : Heading is Dashboard
+2024-03-31 17:25:21,377 : INFO : actual_heading : Heading is Dashboard

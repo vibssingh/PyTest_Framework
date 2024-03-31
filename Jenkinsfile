@@ -5,7 +5,7 @@ pipeline {
     stage('Test') {
       steps {
         bat "cd tests"
-        bat "pytest  --html=Reports/report.html -s"
+        bat "pytest  --html=Reports/Report.html -s"
       }
 
       post {
@@ -17,7 +17,7 @@ pipeline {
             alwaysLinkToLastBuild: false,
             keepAll: false,
             reportDir: 'Reports',
-            reportFiles: 'HTML Report.html',
+            reportFiles: 'Report.html',
             reportName: 'PyTest HTML Report',
             reportTitles: '',
             useWrapperFileDirectly: true
