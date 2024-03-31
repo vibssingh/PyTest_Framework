@@ -10,8 +10,7 @@ pipeline {
 
       post {
 
-        // If Maven was able to run the tests, even if some of the test
-        // failed, record the test results and archive the jar file.
+        // If some of the test failed, still record the test results and archive the jar file.
         success {
           publishHTML([
             allowMissing: false,
@@ -23,16 +22,6 @@ pipeline {
             reportTitles: '',
             useWrapperFileDirectly: true
           ])
-        }
-
-        always {
-          // Send email notification regardless of the build result
-          emailext(
-            to: 'vibhasingh2004@gmail.com',
-            subject: "Test Execution Report: ${currentBuild.fullDisplayName}",
-            body: 'Test execution for ${currentBuild.fullDisplayName} has completed.',
-            attachLog: true // Attach build log to the email
-          )
         }
       }
     }
