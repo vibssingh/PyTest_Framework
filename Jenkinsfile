@@ -5,7 +5,7 @@ pipeline {
     stage('Test') {
       steps {
         bat "cd tests"
-        bat "pytest --html=Reports/Report.html -s"
+        bat "pytest"
       }
 
       post {
