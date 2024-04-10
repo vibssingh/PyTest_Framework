@@ -864,3 +864,114 @@
 2024-04-10 16:48:19,402 : INFO : execute_login : Enter Password - admin123
 2024-04-10 16:48:20,630 : INFO : actual_heading : Heading is Dashboard
 2024-04-10 16:48:20,630 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:56:44,314 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:56:44,473 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:56:45,685 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:56:51,815 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:56:51,815 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:56:52,078 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:56:52,078 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:56:54,018 : INFO : time_at_work_displayed : Time At Work Option is displayed  True
+2024-04-10 16:57:01,944 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:57:01,944 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:57:01,944 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:57:02,207 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:57:02,207 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:57:02,207 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:57:03,284 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:57:09,804 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:57:09,804 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:57:09,804 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:57:09,804 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:57:10,022 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:57:10,022 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:57:10,022 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:57:10,022 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:57:10,811 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:57:10,811 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:57:16,438 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:57:16,438 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:57:16,438 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:57:16,438 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:57:16,438 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:57:16,644 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:57:16,644 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:57:16,644 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:57:16,644 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:57:16,644 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:57:18,010 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:57:18,010 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:57:36,423 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:57:36,559 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:57:37,746 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:57:43,630 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:57:43,630 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:57:43,963 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:57:43,963 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:57:45,536 : INFO : time_at_work_displayed : Time At Work Option is displayed  True
+2024-04-10 16:57:51,023 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:57:51,023 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:57:51,023 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:57:51,224 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:57:51,224 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:57:51,224 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:57:52,234 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:57:58,289 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:57:58,289 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:57:58,289 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:57:58,289 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:57:58,532 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:57:58,532 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:57:58,532 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:57:58,532 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:57:59,587 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:57:59,587 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:58:05,113 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:58:05,113 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:58:05,113 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:58:05,113 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:58:05,113 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:58:05,328 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:58:05,328 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:58:05,328 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:58:05,328 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:58:05,328 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:58:06,452 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:58:06,452 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:58:31,419 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:58:31,566 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:58:32,756 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:58:39,053 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:58:39,053 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:58:39,247 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:58:39,247 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:58:41,072 : INFO : time_at_work_displayed : Time At Work Option is displayed  True
+2024-04-10 16:58:47,109 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:58:47,109 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:58:47,109 : INFO : execute_login : Enter Username - admin
+2024-04-10 16:58:47,339 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:58:47,339 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:58:47,339 : INFO : execute_login : Enter Password - admin$$
+2024-04-10 16:58:48,364 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:58:54,362 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:58:54,362 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:58:54,362 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:58:54,362 : INFO : execute_login : Enter Username - Admin123
+2024-04-10 16:58:54,579 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:58:54,579 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:58:54,579 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:58:54,579 : INFO : execute_login : Enter Password - 123
+2024-04-10 16:58:55,302 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:58:55,302 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-04-10 16:59:01,250 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:59:01,250 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:59:01,250 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:59:01,250 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:59:01,250 : INFO : execute_login : Enter Username - Admin
+2024-04-10 16:59:01,459 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:59:01,459 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:59:01,459 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:59:01,459 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:59:01,459 : INFO : execute_login : Enter Password - admin123
+2024-04-10 16:59:02,580 : INFO : actual_heading : Heading is Dashboard
+2024-04-10 16:59:02,580 : INFO : actual_heading : Heading is Dashboard
