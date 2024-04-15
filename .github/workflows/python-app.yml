@@ -32,5 +32,5 @@ jobs:
         uses: actions/upload-artifact@v4
         if: success() || failure()
         with:
-          name: Pytest Report                       # Name of the folder
-          path: tests/Reports/Report.html           # Path to test results
+          name: Pytest Report           # Name of the folder
+          path: tests/Reports           # Path to test results
