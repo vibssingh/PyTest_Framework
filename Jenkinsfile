@@ -12,8 +12,9 @@ pipeline {
        
     stage('Run Test') {
       steps {
-        bat "cd tests"
+       ``` bat "cd tests"
         bat "pytest"
+        ```
       }
     }
   }
