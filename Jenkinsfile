@@ -6,11 +6,7 @@ pipeline {
      stage('Install dependencies') {
       steps {
         bat '''
-           which python3
-           python3 -m venv venv
-           source venv/bin/activate
            pip install pytest
-           pytest --version
         ''' 
         
       }
