@@ -5,15 +5,16 @@ pipeline {
 
      stage('Install dependencies') {
       steps {
-        bat python -m pip install pytest
+        sh python -m pip install pytest
         
       }
      }
        
     stage('Run Test') {
       steps {
-       ''' bat "cd tests"
-        bat "pytest"
+       sh ''' 
+         cd tests
+         pytest
         '''
       }
     }
