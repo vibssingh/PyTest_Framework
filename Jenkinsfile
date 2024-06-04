@@ -9,12 +9,15 @@ pipeline {
         pip install pytest
         
       }
+     }
        
     stage('Run Test') {
       steps {
         bat "cd tests"
         bat "pytest"
       }
+    }
+  }
 
       post {
 
