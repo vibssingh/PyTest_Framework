@@ -2,7 +2,15 @@ pipeline {
   agent any
 
   stages {
-    stage('Test') {
+
+     stage('Install dependencies') {
+      steps {
+        pip --install --upgrade pip
+        pip install pytest
+        
+      }
+       
+    stage('Run Test') {
       steps {
         bat "cd tests"
         bat "pytest"
