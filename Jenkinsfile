@@ -5,7 +5,7 @@ pipeline {
 
      stage('Install dependencies') {
       steps {
-        sh python -m pip install pytest
+        sh 'python -m pip install pytest'
         
       }
      }
