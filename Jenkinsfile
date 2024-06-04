@@ -5,8 +5,7 @@ pipeline {
 
      stage('Install dependencies') {
       steps {
-        pip --install --upgrade pip
-        pip install pytest
+         pip install pytest
         
       }
      }
